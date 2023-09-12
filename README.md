@@ -1,5 +1,5 @@
 # Building
-Compile with gcc main.cpp assignment-1.cpp. Alternatively, if on linux, use the binary provided in the repo.
+Compile with gcc main.cpp assignment-1.cpp, or using the makefile. Alternatively, if on linux, use the binary provided in the repo.
 
 # Preview
 ## Finding index / Replacing elements
